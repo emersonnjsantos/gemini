@@ -1,0 +1,4 @@
+decouple
+langchain
+streamlit
+langchain-google-genai
