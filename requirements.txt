@@ -1,4 +1,4 @@
-decouple
+python-decouple
 langchain
 streamlit
 langchain-google-genai
